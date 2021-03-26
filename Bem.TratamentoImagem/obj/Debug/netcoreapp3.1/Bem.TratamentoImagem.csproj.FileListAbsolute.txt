@@ -1,0 +1,9 @@
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\obj\Debug\netcoreapp3.1\Bem.TratamentoImagem.csprojAssemblyReference.cache
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\obj\Debug\netcoreapp3.1\Bem.TratamentoImagem.AssemblyInfoInputs.cache
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\obj\Debug\netcoreapp3.1\Bem.TratamentoImagem.AssemblyInfo.cs
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\obj\Debug\netcoreapp3.1\Bem.TratamentoImagem.csproj.CoreCompileInputs.cache
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\bin\Debug\netcoreapp3.1\Bem.TratamentoImagem.deps.json
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\bin\Debug\netcoreapp3.1\Bem.TratamentoImagem.dll
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\bin\Debug\netcoreapp3.1\Bem.TratamentoImagem.pdb
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\obj\Debug\netcoreapp3.1\Bem.TratamentoImagem.dll
+C:\Projetos\RAUBER\Bem.TratamentoImagem\Bem.TratamentoImagem\obj\Debug\netcoreapp3.1\Bem.TratamentoImagem.pdb

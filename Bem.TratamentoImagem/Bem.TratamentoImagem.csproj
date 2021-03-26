@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FreeSpire.PDF" Version="5.1.0" />
+    <PackageReference Include="GhostScript.NetCore" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>
